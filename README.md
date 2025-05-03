@@ -41,6 +41,6 @@
 
 ## 📫 Let’s Connect!
 
-- 🔗 [LinkedIn][([https://linkedin.com/in/your-link]()](https://www.linkedin.com/in/kamal-singh-32144b2b9/))
+- 🔗 [LinkedIn][(https://www.linkedin.com/in/kamal-singh-32144b2b9/))]
 - 💻 [GitHub]([https://github.com/yourusername](https://github.com/CaMmY05/))
 - 📧 professional.kamal.singh@gmail.com
