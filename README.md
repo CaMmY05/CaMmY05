@@ -2,7 +2,7 @@
 
 🎓 B.Tech in Computer Engineering | Minor in Cyber Security & Digital Forensics  
 📍 RAIT, DY Patil University, Navi Mumbai  
-🔐 Aspiring Cyber Security Specialist | Interested in Ethical Hacking | Pursuing CCNA | Full Stack Developer | Chrome Extension Dev
+🔐 Aspiring Software devoloper / Engineer
 
 ---
 
