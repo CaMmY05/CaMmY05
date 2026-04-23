@@ -2,8 +2,7 @@
 
 🎓 B.Tech in Computer Engineering | Minor in Cyber Security & Digital Forensics  
 📍 RAIT, DY Patil University, Navi Mumbai  
-🔐 Aspiring Software devoloper / Engineer
-
+SUI!
 ---
 
 ## 🔧 Projects
